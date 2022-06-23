@@ -13,7 +13,7 @@ public class ItemPickup : MonoBehaviour
         if(result) Destroy(gameObject);
     }
 
-    private void OnMouseDown()
+    private void OnClick()
     {
         Pickup();
         //print(Item.name);
