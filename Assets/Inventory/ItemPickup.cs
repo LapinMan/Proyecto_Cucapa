@@ -13,9 +13,11 @@ public class ItemPickup : MonoBehaviour
         if(result) Destroy(gameObject);
     }
 
-    private void OnClick()
+   private void OnTriggerEnter2D(Collider2D other)
     {
-        Pickup();
+        if(other.CompareTag("Player")){
+            Pickup();
+        }    
         //print(Item.name);
     }
 }

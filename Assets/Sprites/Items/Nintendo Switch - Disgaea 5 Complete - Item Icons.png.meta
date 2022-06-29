@@ -1,0 +1,6878 @@
+fileFormatVersion: 2
+guid: 02399b36aed9da14493d2780b62aabc3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 777
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45786b2d854b0f4489df2eff7ae06c73
+      internalID: -1641292349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeaa49e0b964334fba45c663ef8017f
+      internalID: -1187776421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1aa786d31f3d54e9dac233017f07ac
+      internalID: 1077395042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665484c21ab1b3e42b843ca43894f114
+      internalID: 745569726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d7bacd3b57824997558ca68f3b92b
+      internalID: 821346584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47734ac5dd6eb459b1556d08be2490
+      internalID: -1328720560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9c1d6df8a40049b7779b5c92a4344
+      internalID: 553070035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010c522ba66dba42936ad0f0dd9daaa
+      internalID: 1884542067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe0b02add156f42842d072bb57fb35
+      internalID: -961298053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab53c82ab7e4f4eb9b3c7a17b087e4
+      internalID: -1504785056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738244eeb30bc6479027af8225bdd28
+      internalID: -153485576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda2a2b68711a3429dc6a2da4381c7d
+      internalID: 1384323595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc05bc599fc56cf4287b5a2ba3ac96e7
+      internalID: 1409907645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1c90f65970524d9222ed347997b9b
+      internalID: 828477095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_14
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d72e8244347c04e929628253d0769f
+      internalID: -1735508835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_15
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f86bc17db7e743b832bdff5b232c1
+      internalID: -317011774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_16
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4720f9d7a0d794449ba56a8dde84742
+      internalID: -1371482388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 776
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37715a4ad42aa24a9a410af5b0416a2
+      internalID: -1963964705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f23dd1c90966469997e52f9ba2d9a
+      internalID: 1118538461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da95baf8089419429eb7d6ef4e2b275
+      internalID: 181592808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab280eb611396204c84f14f30e1bc15d
+      internalID: -1344826641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7f191001579d546a330854a3ac3397
+      internalID: -295968745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101968368e4a422468ad20c266d951a3
+      internalID: 1311628573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822f4e25c4c6ce448c21a6811e15c1a
+      internalID: 1243464073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf26e1d13078a440aad5017a610e667
+      internalID: 235404164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f7c940b1cf1e41bdb34f384c7e752
+      internalID: -564549542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fe72351199a744ab2602ecdf4b849
+      internalID: 1803649441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95560066e80944b8ac882215b37555
+      internalID: 1377822286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf26d2061afe59640a26725417f2ee8b
+      internalID: 913789727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f547870a901180408e4f5cef3ff00c8
+      internalID: 2051546501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_30
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6263ee15e2b2aa4b8f2f8f458067c66
+      internalID: 1109616324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fec8f345abc564fb07daab0c9a7523
+      internalID: 1732011567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780479430ee056740a86a360704b7c00
+      internalID: 786664276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_33
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec18eed807a80a84c86e204fc1cea37e
+      internalID: -1972369978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3903c305d2fb9244d9c9a358e32b5c38
+      internalID: 472659453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 729
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2cbd4535f2ad46a44648022e86133
+      internalID: -2021252608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94511e24ca561459861bb3269bae3c
+      internalID: 1046869612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befff29be784f2e42a3b965daca669d2
+      internalID: -1326423111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dba6ad100a9444ba3485a6b45d99ae
+      internalID: -1651158364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7b74c1d47d6f44cae03c2666793682
+      internalID: 368285615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d8cd2bd664af47b0474d13066ecc4
+      internalID: 1236224560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_41
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b77dc100ea9d74c8cff20528c3288f
+      internalID: -455747885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_42
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e3adeac776cb94fbe6c954d1ea9e59
+      internalID: -1152034709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddb9300cd372a4e9c2f432c93b11bb
+      internalID: 1784978919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_44
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4169cdc15877748af818881aeee3b1
+      internalID: -405138646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa99bda1094ba542b5a61eb82abe8ef
+      internalID: 269957506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc001815ce15c04f9ae843eb49c3734
+      internalID: -213993342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_47
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c99d85410831d4f838519f92d30313
+      internalID: -817656431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_48
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16679664044bb774fbf4547c13bb5664
+      internalID: 1757995983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc97d175b9111ba459d4c8311fe720fc
+      internalID: -740869576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca5a41c8ee5f3547a6ec9875d848f69
+      internalID: -1415818761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_51
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce564c2c7c2c53419caf637355ee55b
+      internalID: -1114562570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_52
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85641543586048a41b3cef5877ec2922
+      internalID: -1722480449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 682
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c0263d6f26894a98f42b937704677
+      internalID: -333242524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343cfd4a3ef3c240a5b1d832b474f1a
+      internalID: -1811472431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95959f56a5b7c44a5e81fbb7c05e92
+      internalID: -769735022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0dde817a392c44896029f22a840175
+      internalID: -937446944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f4912d23d3bd4b999c877060561d8
+      internalID: -202314547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_58
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad442841db19644d9be6cf5234f685d
+      internalID: -2090832045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d997167e446b4374a8d7f267f9da7b5c
+      internalID: -1863483416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaacf5ce670201418a56cce551ec9f8
+      internalID: -1643249815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c555fe4e491a742b6ff18c3e3c6e90
+      internalID: -1932542193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892bd40cecf20245b9ad33bf12866cf
+      internalID: 166964964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_63
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0848849b50d620f4b8d5297a029c237b
+      internalID: 283165794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_64
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa643c50c4afcfb4f984a4c4a3f98921
+      internalID: -1233678218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_65
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba9fb25d52aba459383baa344177fe
+      internalID: -1686931584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_66
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb739c048fe2d454e8996602f66e8f38
+      internalID: -936845299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_67
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f760020e8a24749a8fb6a31a432e35
+      internalID: -927430923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_68
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3296ac15e9c04989d70659b14af63
+      internalID: 37089717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_69
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd298553b48c24791421720174f220
+      internalID: -1464350748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_70
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d07c10319a434ca36190d8d02cc95
+      internalID: 165155015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60750f602781ec54ca7e32ab44f38f7d
+      internalID: 1794154852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456847b465b052449911bd1a8cb66fd
+      internalID: 703702773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478765b96a5acec4eae0c79bed8d95f4
+      internalID: 135994554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9174f2995b914fb8654ce93086d46
+      internalID: -1285317793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547b7e09bfa0984b92b6453171f8751
+      internalID: 608069038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_76
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17958ac6b5e60d498cf70c8b7c696bb
+      internalID: 2110381954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_77
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282292b24c0a801499e20d2a9da910ba
+      internalID: 507480970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf31c941ed7a694d8e991058bc75181
+      internalID: 1482682780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_79
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878e19ccb90ae843b793067660a1acb
+      internalID: 1428203024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_80
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8d54a90f7a2546a8b51e782f500aa
+      internalID: 1027666521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_81
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9e2983018a44544920f5413902515e
+      internalID: -1722265025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73117779f7e23e74ab416a0f43233772
+      internalID: 526320818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_83
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc656623e7b5244d8a146c3e7edc078
+      internalID: 1374231615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_84
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ab846b53e7ea45959e89111d85034
+      internalID: -1207472802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_85
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4824cfaa80e924ea535bcdedf649c1
+      internalID: 520772795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_86
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9684cc3ae96474d953fe75f4e1c1e7
+      internalID: -1306391151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_87
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66813dec38f3464e871de1c548adffb
+      internalID: 1363643373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_88
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5bde716bb5694e9c0a4292e8e157a
+      internalID: -464638362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 588
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3006ff338ba944b62aed5333f6b4a
+      internalID: 1273737007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b5a717055a6140921a794e0de339a
+      internalID: -1510803361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810fb34fbfe35c44a9f8134d8f217ea9
+      internalID: 901832865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_92
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108f2e4c1bedd934994cc8983dace489
+      internalID: -1102333502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_93
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a41b6353000042b6a3ba623e641e6
+      internalID: -1171902283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753abd5b23aac4842b937ba3cdda13fb
+      internalID: -1117392233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_95
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ddc9840d4d0554a8639de09bbc2e15
+      internalID: 955108384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea8053a2923ac46bf988268b3f27ec
+      internalID: 618877711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d75000cdf538646a59b5f360070310
+      internalID: -222929601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_98
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e897203d9237f84abfa82368272cb38
+      internalID: -976749019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_99
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf437267e574a3345b23f81b6425b59b
+      internalID: -791705922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_100
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af046217b4391214da066cf0a29cbd2f
+      internalID: -1480993342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_101
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49094a62ad7fb794094bb341d7935178
+      internalID: -251895517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_102
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ea1287b6b4934e8bba748ffdda23b
+      internalID: 2005027564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_103
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4722ad344f4c0429c9053f5297cd27
+      internalID: -1182741958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_104
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6a64823fda83447b8830866641ccc3
+      internalID: 1586869238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_105
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e7e83b56445574b840b201aeb47bef
+      internalID: 1656142112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_106
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35559e7e7e6f514a949a42cfd26770d
+      internalID: -636840334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221693b28e0bba84db25cafa092e4ef8
+      internalID: 1867498171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7291da0604928cf46a06f93043c0722c
+      internalID: -1965163599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6281b78daab2a548a290b824eac5420
+      internalID: -2015141202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_110
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c5092397afb34c874d7510dfe2e55
+      internalID: 612465309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3e2ac1e4021543b4c32137c379b4a
+      internalID: 234260300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_112
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818fdb9620ee56643a77a56c0359082c
+      internalID: -1865699923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_113
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511d9a025640db47b2887705ae2a4a0
+      internalID: 1741555259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_114
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c0553636330c4cbb1336835ae9673
+      internalID: -641125945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740cad6f0071c3f41ba51584116c8de1
+      internalID: 468101255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_116
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba98ed264da4a248a3e05347a413cbd
+      internalID: -1224787389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_117
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf43f984221336e4d88ea08be1a4216a
+      internalID: 317129281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_118
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82dc0e5a745a0945a1c6b62ee6f80ab
+      internalID: 757903095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_119
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b018e12d29884bb8fa4d9ab0f0b07
+      internalID: 1112493330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_120
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534ff7d01f549540ae77463ee357025
+      internalID: 398453737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_121
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49498d8282ea1948b1851fd4a59cd1c
+      internalID: 667206095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_122
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e6703b480afa49a48bc822292a6f3
+      internalID: 366698382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_123
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64568a74aa58f4b4996b38d0ee0f6fed
+      internalID: -1095598969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_124
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c5222e920763b469c61e3b7d2b676d
+      internalID: -1501839154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_125
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 494
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa46447f3d2025478e811e753ccaf34
+      internalID: -2085597560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a61471f42adf0144a9eaa500b5a6b1d
+      internalID: -89576019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8145b379f13819469ef3974aaadb076
+      internalID: 1026756961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f76f761afeea4bb573dbf069470b1
+      internalID: -140420024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_129
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac45cbc349378c429a13d07f64c22fb
+      internalID: -1019767845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_130
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2ef089f8226946a7ef214fe732c31
+      internalID: -1288663139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_131
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da9e7e35d0858499d6c6682eb15fb1
+      internalID: 1320784653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_132
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef2b07465e1059458404c0ae6ca6131
+      internalID: 1592193775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_133
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add329825a27d384fb4b214a2000cfd6
+      internalID: -1401587738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_134
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db936ad2736ec43b584bdb59971bb6
+      internalID: 702543008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_135
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a685e96fb54dc542870d5bf83577026
+      internalID: -714204827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_136
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e271a509221154b84482dd450f606d
+      internalID: -117354677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_137
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf16aa4eb3e0b49a95b516bbc565e7
+      internalID: 903932978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_138
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b9c11e413b204384c24baba3e8b11
+      internalID: 1372822369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_139
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e721482853ba0947a757c8d0624a937
+      internalID: -927765397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_140
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4beab0f3568240b4986819df70975
+      internalID: 309299500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_141
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea08c41a303b814993b6cfc2e09c5bb
+      internalID: 1242340589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_142
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abc393dfabfdf4f80b4d95421e9ec7
+      internalID: -1914628961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_143
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 447
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ba07f157db58941bb5919efdd109e9
+      internalID: 1443028482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5df17f5c6b4f41b15fdb6a58ca6e5
+      internalID: -22770030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829abd9dc8fcbfb4296d48e670562124
+      internalID: -2052803095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_146
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81424fbe71a66244e9809196cb499991
+      internalID: 628332645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b0daff6df8af428517378049164f6
+      internalID: 1691599225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_148
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6806a6af560c6147b5087a03a99e615
+      internalID: -732696075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_149
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b95663ad2366a4d85a78bf2974d564
+      internalID: -1986245852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_150
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3568cdf0011c0645b110c04fca1a53e
+      internalID: -1527429889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_151
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd476edceeae8b64d85b55a0d2c3c548
+      internalID: -687187770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_152
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5b89d452c24a4dbacba560b4a1f24
+      internalID: -1876708230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_153
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6944a6df277640b7739504a2cc26f
+      internalID: -1129493754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_154
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686d5c4eb3fc7545885b5009819e4c1
+      internalID: -1032843137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_155
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ee93a9caa6454c83d07d29dee6c56
+      internalID: -569761431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_156
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cac6c49aa2b0488494c7deb564461
+      internalID: 516842033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_157
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290873aaec9d1614cbcf200cc57883a9
+      internalID: -1392938092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_158
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a776866d81011c48b9464fc8b467d37
+      internalID: 1051377792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_159
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3604168006f58d4fabdf1bfe50b9824
+      internalID: 1078614770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_160
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080976b1a452c6c40aa81a4cdd924bbf
+      internalID: 1420908967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_161
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c28965d2835984885226342071c9a3
+      internalID: 859959576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733478f427ef4d041b9747831f33351a
+      internalID: 2053284917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e5d7b46243f843ad8ff774eb46070
+      internalID: 25625376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_164
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dc418a42ed72f4ab6c7570ef720ba9
+      internalID: -1667658911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_165
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280df8123c6febe48897cd58f97f5093
+      internalID: 1122019638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_166
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd887f47ba9ae469c2eba8048d2dfb
+      internalID: -1384454981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_167
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49936c93c3c52a42a8d906d2151015f
+      internalID: -336724888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_168
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e672c3860ba74ba94efe23ddb515b
+      internalID: -1047231831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_169
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc2edd4e3a241498516745803c32c6
+      internalID: -2023220974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_170
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b1b6fa2556014fafcc0de06e5baaa
+      internalID: 1638000859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_171
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec0dd5e308dde4f892d7384bd085a5
+      internalID: -2133678696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_172
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9f3f83fbc2624b80c21d18428ad6c
+      internalID: -1490250156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_173
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c8e7a66be5c8c4595da731890ffc4e
+      internalID: -1470551978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_174
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc53b747d0774e84ba9677aabf6403a4
+      internalID: -1407243578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_175
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd25d0c76499eb46a637437f25b26a1
+      internalID: 1202666667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_176
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42846eb78147bef4c96622b8f1130cb3
+      internalID: -1904778273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_177
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1d514a7157ac4bbbcddf4565bc789
+      internalID: -722696140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_178
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaae59f4e1fa0441884abce244507b8
+      internalID: 1592756164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_179
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc77e6983dfd3419663a6d517c19df
+      internalID: -1879034604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aad405602498f4ebfafbf091f22de2
+      internalID: -1050510135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370b3480e50d1342b8dcbee7e7bf8c0
+      internalID: 1721636646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_182
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851d9a70e2dd1945a75d38f27f088ad
+      internalID: 1642171547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_183
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e675d2b149904aa6ae3dfeb289916
+      internalID: -916781437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_184
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caccab9058661c418a3f239a7041496
+      internalID: -324562841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_185
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bd5d0f530e52e449189d13394e7c75
+      internalID: 1169575246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_186
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba34238277d22479e167c1ad50b6cf
+      internalID: 1123908880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_187
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff85860123afa479ec56fb49750947
+      internalID: -1569615091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_188
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c2df1cdc30c949afe5aed8e3f8097
+      internalID: 1521384635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_189
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411de161dded651428916dbbbcd0d4b0
+      internalID: -1819456496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_190
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d27f398de8db5b4a95bd9b224a99660
+      internalID: 1917089869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_191
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96aab440bce1e844935f1137efb612d
+      internalID: -2145680827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_192
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b785520dd76e5547b817ba188bba74f
+      internalID: 466899950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_193
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893a10f1c1fd6c45aa3560bf03297de
+      internalID: -1090716199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_194
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be1408f06fd9b49bf03fcadee67b81
+      internalID: -372625913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_195
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5003cb1fac47d344af4f3755620bb3d
+      internalID: 1503454146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_196
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3601517fcd3814dba9bec94d2230ba
+      internalID: -1776544285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_197
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 306
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca81a33b733e7a4584f2a27578098c1
+      internalID: 931098259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a120c12beb5c13d46b569ffd5d4e610d
+      internalID: -663789801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_199
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610e424e1eff854287855d7928215ba
+      internalID: -2012412238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_200
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2283212d560e9914ea6a54d4e844dc0c
+      internalID: 620682327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_201
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f362433cf58e46bb28ca2960be1c7
+      internalID: 1785184291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_202
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47a844a57764f49bcaeb84a6c810f7
+      internalID: 2139324064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_203
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c30a8d5b42841d42a116f5ca70a362a
+      internalID: 748068110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_204
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d955b7800c6234a9e0da76cea1e546
+      internalID: 145155891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_205
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcae052c5138a4f868f06957c45730
+      internalID: -1523077676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_206
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca07ee3bf0ff584cb55aaf4f8de5b7d
+      internalID: -790501555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_207
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924e06947b68144099238248933b7eb
+      internalID: -1857689846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_208
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4567e47f1c20b418df2b2b325e01c3
+      internalID: -1552390090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_209
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941978c8fd7c46344a1dea67632e1193
+      internalID: -1928544072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_210
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d54db56d353744b79121c79a79c56
+      internalID: -2006897635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_211
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec00e76913780a446a333f05c62636ef
+      internalID: 2108650613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_212
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a10453bceaf014a80fa33adc3d890d
+      internalID: -402840819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_213
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e12937bb98254ea539c0a535bccb6
+      internalID: 1575820212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_214
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c38b4db3542ce4a8f8dfb350cfff11
+      internalID: -1204192223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_215
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e92f05a59094d40a9d44413d390176
+      internalID: 1677323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeae9f492b91834ab353bb5cf213dca
+      internalID: -1774167068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_217
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c447f2eed0f2b394581ff3086b562b0e
+      internalID: 1792534286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_218
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91d58a5cd83c144aa7166dfef7eae2
+      internalID: -489859278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_219
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd996e59cbf580449b3b9514cd7228f0
+      internalID: 1426367546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_220
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1428495bdbeaee4ea1f1e83f99d5be1
+      internalID: 393711771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_221
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09f4e85d5e41e419ba6a1eac1f5620
+      internalID: -376530560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_222
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb25aa57abdaa459b0951d4a649968
+      internalID: -1603357166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_223
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f15cc5cc9b7fb848bd81878900b15db
+      internalID: -555968488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_224
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c6c148dcd1b34b9ea0068183d8520
+      internalID: 304189452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_225
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ff778a2b5892742b813a61d909c1ec
+      internalID: -1621187381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_226
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5014effb7cfeb429ac8755259b6721
+      internalID: 1590507906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_227
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173d2b8d74f1ba4fb3be22bcf0dd89d
+      internalID: 1347502023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_228
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a255bcc27674504bbf66bebe1b11801
+      internalID: -583057122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_229
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa7612f3372b349b17c8c2ddb5e460
+      internalID: -2025236690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_230
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864e5eb6ab65c304b8c4cbc9f55d9453
+      internalID: 1645994002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_231
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d3df76916774446b6eba1a7d83c5c4
+      internalID: 1287551000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_232
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb237559de3ca614bbb83eb0ed2099c6
+      internalID: -1719858041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_233
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0105a674fae54a94a5180a3172480
+      internalID: 2030858552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_234
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3416983b4b8aef4187549f094165471
+      internalID: -1211217178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af373ba961b694ca033346c40d629e
+      internalID: 2056567945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_236
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3feb897c3a9fb4597d89bdae1df42d
+      internalID: -1477452727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_237
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84eb2d1d8ae6c1458eb8846b8d66a37
+      internalID: 1585244892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_238
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa4b57f2ac428479c28480d0c4e2b6
+      internalID: -640049807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_239
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1e72fe25accb49a186db9b3f21b1a
+      internalID: -778047324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_240
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee6f0e213819c842be22146624ce8d2
+      internalID: -986235637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_241
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece7837bf027e14ab73e67152c9ae6c
+      internalID: 1973003012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_242
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73c33e47770fd4da04289be4ad497d
+      internalID: -1590689074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_243
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf226ce2c2b9f4a96cbfad88e63471
+      internalID: -1724122627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_244
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc112b8e77bde264790787c0a29f9eee
+      internalID: -1027125463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_245
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb4bacab12bac4c98e697394e3aefd
+      internalID: 231562907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_246
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08aac892637cc948ad1bb4d83b32a2e
+      internalID: -2073711467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_247
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b2b664505ca9458540a8d78e29112
+      internalID: 1118287346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_248
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424172701c107124f98d65d4a8d342cc
+      internalID: -1104254404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_249
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04886b51bbe64774fbb6629b8aef2054
+      internalID: -701066968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_250
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c2d292e4314c438c92646083133e9
+      internalID: 1211038208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_251
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf964aa4459ff840a2931d52d6734d7
+      internalID: 1386138552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_252
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ecbf279bb4724c946ee2a26b26e9e
+      internalID: -1169535328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_253
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570bada55e118a40a326de676b52b3e
+      internalID: 576888873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_254
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df0529aab59ae64aa77c697cee22631
+      internalID: -219724179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_255
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041e4cc9a3dd0f48910e55fd5b613f4
+      internalID: 893424077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_256
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b50ee67ce88b4b81e544a6915ac6e
+      internalID: -144005956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_257
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3cf00a40e9de4e8ff12ac8be283bd
+      internalID: -639333081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_258
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c01d0969b75141bd858f66d9d0dee
+      internalID: 1397824603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_259
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe764050861ce45b952441264f6314
+      internalID: 143570829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_260
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be475680f503704396c5f751c910dc3
+      internalID: -604284153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_261
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8552953593639648867560c9ee1b8ff
+      internalID: 374390109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_262
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3a95fbc07f6d429c9d06e8f69dd4d
+      internalID: 883625820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_263
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ddb2a8e5e1e0e46af0ef7338bc62f9
+      internalID: -1550221980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_264
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181378c4879217c4eace3dd9f6fd06fd
+      internalID: 759451068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_265
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa276b72c5522aa4f847f65e436c1fbd
+      internalID: 384607288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_266
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb89fb5eaede8c4b8815e8019b6829c
+      internalID: -303712739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_267
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df72251d3b5ef4ab902b29851faa13
+      internalID: -2039901890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_268
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f0313cd81850439d955340d8cfeb2
+      internalID: 1393590330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_269
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 118
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bba0e7058e56f4c908b810597cb7fc
+      internalID: 1749319413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_270
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61568ea00c09bc84da24b08299e3dd4f
+      internalID: 710142966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_271
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152fba5d201b4549a2d4f4978d48bdd
+      internalID: 360015637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_272
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a2be4c27184e49a967c596fbf804e
+      internalID: 770745433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_273
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e22aff3d8dbf449eee68cd548b0be
+      internalID: -852774147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_274
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00f9924457d2d4eaddc8b934c1db13
+      internalID: -1709478777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_275
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8c1f42efcdd548aef5107dfa2b413
+      internalID: -8665421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_276
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72aef596d7af6c439c69ca64b1ce0ff
+      internalID: 679174398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_277
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d25b8649f427084c9b15881e7aaf113
+      internalID: -498740324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_278
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf54a00922df2f449bc580e09a969f5
+      internalID: 1051666448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_279
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948e4faa5e980944bedd2c3a37cf57f
+      internalID: -193340263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_280
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf628e9b1cd7944928cfddb756f461
+      internalID: 1547701709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_281
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5d46a83b1041459bb12fce2126d54
+      internalID: -848219735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_282
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45efc39b6b7e52a4dad6867be92689c9
+      internalID: 664155045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_283
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f287cabd535d42a96240297c352e8
+      internalID: 1221634203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_284
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9f46b3fdf38940bba63dde62af9ee
+      internalID: -1763138258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_285
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac2a3619e46cab4e8f38b8a0c8322bd
+      internalID: 858559032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_286
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fb9d594e35c54f8b5dad06e3a0001
+      internalID: -1183660942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_287
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 71
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38068955f9f5b04d89e4989b9c4a230
+      internalID: -1604435930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_288
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be709adcc3784c4fa488c40a780b28f
+      internalID: -2059910012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_289
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0da0cded5072794fb096c8f80ab6f8c
+      internalID: 711340823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_290
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a66957dfcf9e14a98709265cc88d75
+      internalID: 236857509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_291
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b8e8210e49ab40b244e8fc8fb9c08
+      internalID: 707671660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_292
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601b758b59c6234cac12af8ed547b35
+      internalID: 1422646878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_293
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef5602d1c891942b28700bd1433555
+      internalID: -1565459822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_294
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d927620d157b3344aeef58145d1c59f
+      internalID: 583873792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_295
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5058fe7211fec3741893fc5625b78704
+      internalID: -2093468401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_296
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea90dfcff8231a42a17a95bddda7ca8
+      internalID: 1914691612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_297
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae94fc7b628f44abc28c8cf3141df4
+      internalID: 944926762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_298
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6889b57f9933b9d47842d499621f1b76
+      internalID: -1118884774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_299
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4b6f9026719446ad25b24b11a8126
+      internalID: -909733167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_300
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a93c14ea285634787c8a9e1255841d
+      internalID: -231017174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_301
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3d1e59e5410584083ba097f5ae642b
+      internalID: -2050136264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_302
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b78bb39e3b2d74498166a39a495827
+      internalID: 1449060620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_303
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab237f2f20c8b4e97a28cdde3147c9
+      internalID: -1043126577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_304
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45176df3b5d974b83766d2689e99f5
+      internalID: 1599202337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Disgaea 5 Complete - Item Icons_305
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 24
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cbd93dbd352ec4bbe6aa8ffff038e4
+      internalID: 1009339477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_127: 1026756961
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_28: 913789727
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_90: -1510803361
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_39: 368285615
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_11: 1384323595
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_195: 1503454146
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_225: -1621187381
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_67: -927430923
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_235: 2056567945
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_57: -202314547
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_104: 1586869238
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_166: -1384454981
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_144: -22770030
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_131: 1320784653
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_74: -1285317793
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_187: -1569615091
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_151: -687187770
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_277: -498740324
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_182: 1642171547
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_83: 1374231615
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_177: -722696140
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_108: -1965163599
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_8: -961298053
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_229: -2025236690
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_113: 1741555259
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_115: 468101255
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_56: -937446944
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_210: -2006897635
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_125: -2085597560
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_295: -2093468401
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_101: -251895517
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_140: 309299500
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_146: 628332645
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_173: -1470551978
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_180: -1050510135
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_110: 612465309
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_278: 1051666448
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_112: -1865699923
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_136: -117354677
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_6: 553070035
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_54: -1811472431
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_157: -1392938092
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_304: 1599202337
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_61: -1932542193
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_285: 858559032
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_77: 507480970
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_230: 1645994002
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_99: -791705922
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_50: -1415818761
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_21: -295968745
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_253: 576888873
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_45: 269957506
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_186: 1123908880
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_116: -1224787389
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_287: -1604435930
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_232: -1719858041
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_130: -1288663139
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_198: -663789801
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_75: 608069038
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_257: -639333081
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_269: 1749319413
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_81: -1722265025
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_31: 1732011567
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_286: -1183660942
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_150: -1527429889
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_168: -1047231831
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_47: -817656431
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_191: -2145680827
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_25: -564549542
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_178: 1592756164
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_214: -1204192223
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_107: 1867498171
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_237: 1585244892
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_245: 231562907
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_169: -2023220974
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_105: 1656142112
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_14: -1735508835
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_154: -1032843137
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_114: -641125945
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_276: 679174398
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_281: -848219735
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_299: -909733167
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_78: 1482682780
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_124: -1501839154
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_240: -986235637
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_194: -372625913
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_254: -219724179
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_223: -555968488
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_93: -1171902283
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_165: 1122019638
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_217: 1792534286
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_70: 165155015
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_59: -1863483416
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_66: -936845299
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_137: 903932978
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_128: -140420024
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_242: -1590689074
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_218: -489859278
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_301: -2050136264
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_129: -1019767845
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_202: 2139324064
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_239: -778047324
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_43: 1784978919
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_118: 757903095
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_181: 1721636646
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_262: 883625820
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_68: 37089717
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_94: -1117392233
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_183: -916781437
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_228: -583057122
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_153: -1129493754
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_234: -1211217178
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_272: 770745433
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_220: 393711771
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_72: 703702773
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_42: -1152034709
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_207: -1857689846
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_265: 384607288
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_224: 304189452
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_55: -769735022
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_231: 1287551000
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_138: 1372822369
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_212: -402840819
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_263: -1550221980
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_200: 620682327
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_30: 1109616324
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_58: -2090832045
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_139: -927765397
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_12: 1409907645
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_17: -1963964705
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_35: -2021252608
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_62: 166964964
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_149: -1986245852
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_170: 1638000859
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_121: 667206095
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_33: -1972369978
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_5: -1328720560
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_102: 2005027564
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_163: 25625376
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_197: 931098259
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_298: -1118884774
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_92: -1102333502
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_109: -2015141202
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_172: -1490250156
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_171: -2133678696
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_100: -1480993342
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_213: 1575820212
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_251: 1386138552
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_236: -1477452727
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_248: -1104254404
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_111: 234260300
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_282: 664155045
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_40: 1236224560
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_16: -1371482388
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_145: -2052803095
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_76: 2110381954
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_192: 466899950
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_261: 374390109
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_174: -1407243578
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_46: -213993342
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_221: -376530560
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_53: -333242524
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_158: 1051377792
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_305: 1009339477
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_4: 821346584
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_147: 1691599225
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_289: 711340823
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_290: 236857509
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_167: -336724888
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_288: -2059910012
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_24: 235404164
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_52: -1722480449
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_60: -1643249815
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_32: 786664276
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_268: 1393590330
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_22: 1311628573
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_142: -1914628961
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_296: 1914691612
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_188: 1521384635
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_122: 366698382
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_1: -1187776421
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_175: 1202666667
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_190: 1917089869
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_65: -1686931584
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_280: 1547701709
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_51: -1114562570
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_189: -1819456496
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_294: 583873792
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_26: 1803649441
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_303: -1043126577
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_238: -640049807
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_243: -1724122627
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_260: -604284153
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_69: -1464350748
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_85: 520772795
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_205: -1523077676
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_156: 516842033
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_252: -1169535328
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_123: -1095598969
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_80: 1027666521
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_88: -464638362
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_79: 1428203024
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_247: 1118287346
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_274: -1709478777
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_201: 1785184291
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_283: 1221634203
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_162: 2053284917
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_133: -1401587738
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_267: -2039901890
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_37: -1326423111
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_86: -1306391151
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_222: -1603357166
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_271: 360015637
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_143: 1443028482
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_73: 135994554
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_135: -714204827
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_3: 745569726
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_203: 748068110
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_256: -144005956
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_161: 859959576
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_82: 526320818
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_7: 1884542067
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_9: -1504785056
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_34: 472659453
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_193: -1090716199
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_164: -1667658911
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_241: 1973003012
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_211: 2108650613
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_152: -1876708230
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_206: -790501555
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_27: 1377822286
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_291: 707671660
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_29: 2051546501
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_41: -455747885
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_284: -1763138258
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_148: -732696075
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_48: 1757995983
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_160: 1420908967
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_259: 143570829
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_95: 955108384
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_255: 893424077
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_244: -1027125463
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_97: -222929601
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_226: 1590507906
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_233: 2030858552
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_266: -303712739
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_71: 1794154852
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_15: -317011774
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_18: 1118538461
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_216: -1774167068
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_64: -1233678218
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_185: 1169575246
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_300: -231017174
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_196: -1776544285
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_219: 1426367546
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_279: -193340263
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_249: -701066968
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_96: 618877711
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_36: 1046869612
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_20: -1344826641
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_258: 1397824603
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_270: 710142966
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_87: 1363643373
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_0: -1641292349
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_2: 1077395042
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_184: -324562841
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_44: -405138646
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_227: 1347502023
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_49: -740869576
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_98: -976749019
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_106: -636840334
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_155: -569761431
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_126: -89576019
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_89: 1273737007
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_199: -2012412238
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_246: -2073711467
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_19: 181592808
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_176: -1904778273
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_275: -8665421
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_63: 283165794
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_209: -1928544072
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_159: 1078614770
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_38: -1651158364
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_297: 944926762
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_208: -1552390090
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_119: 1112493330
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_23: 1243464073
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_250: 1211038208
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_273: -852774147
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_292: 1422646878
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_84: -1207472802
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_293: -1565459822
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_117: 317129281
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_204: 145155891
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_302: 1449060620
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_141: 1242340589
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_120: 398453737
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_10: -153485576
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_179: -1879034604
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_91: 901832865
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_134: 702543008
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_215: 1677323568
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_13: 828477095
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_103: -1182741958
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_264: 759451068
+      Nintendo Switch - Disgaea 5 Complete - Item Icons_132: 1592193775
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
