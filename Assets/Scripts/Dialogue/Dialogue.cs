@@ -6,6 +6,7 @@ using UnityEngine;
 public class Dialogue {
 
     public string name;
+    public Sprite portrait;
     public string[] sentences;
     
     /*

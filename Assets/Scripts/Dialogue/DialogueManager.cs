@@ -9,29 +9,41 @@ public class DialogueManager : MonoBehaviour
 
     public Text nameText;
     public Text dialogueText;
+    public Image portrait;
 
     public GameObject nextButton;
 
     public  Animator animator;
 
+    private Queue<Dialogue> dialogues = new Queue<Dialogue>();
     private Queue<string> sentences;
 
     public void Start() {
         sentences = new Queue<string>();
     }
 
-    public void StartDialogue(Dialogue dialogue){
+    public void StartDialogue(List<Dialogue> dialogueList){
+        // Poner los dialogos en una fila
+        foreach(Dialogue dialogue in dialogueList){
+            dialogues.Enqueue(dialogue);
+        }
+        // Prepararse para el display
         animator.SetBool("isActive", true);
-        nameText.text = dialogue.name;
+        ShowDialogues();
+    }
 
+    public void ShowDialogues(){
+        Dialogue dialogue = dialogues.Dequeue();
         sentences.Clear();
-
+        // Set Variables for Dialogue Box
+        nameText.text = dialogue.name;
+        portrait.sprite = dialogue.portrait;
         foreach(string sentence in dialogue.sentences){
             sentences.Enqueue(sentence);
         }
+        
 
         DisplayNextSentence();
-
     }
 
     public void DisplayNextSentence(){
@@ -56,7 +68,14 @@ public class DialogueManager : MonoBehaviour
     }
 
     public void EndDialogue(){
-        animator.SetBool("isActive", false);
+        if(dialogues.Count != 0){
+            ShowDialogues();
+        }else{
+            animator.SetBool("isActive", false);
+            dialogues.Clear();
+        }
+        
     }
+    
 
 }
