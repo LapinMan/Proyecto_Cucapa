@@ -7,6 +7,8 @@ using UnityEngine.UI;
 public class DialogueManager : MonoBehaviour
 {
 
+    public GameObject player;
+
     public Text nameText;
     public Text dialogueText;
     public Image portrait;
@@ -24,6 +26,7 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(List<Dialogue> dialogueList){
         // Poner los dialogos en una fila
+        player.GetComponent<PlayerMovement>().enabled = false;
         foreach(Dialogue dialogue in dialogueList){
             dialogues.Enqueue(dialogue);
         }
@@ -73,6 +76,7 @@ public class DialogueManager : MonoBehaviour
         }else{
             animator.SetBool("isActive", false);
             dialogues.Clear();
+            player.GetComponent<PlayerMovement>().enabled = true;
         }
         
     }

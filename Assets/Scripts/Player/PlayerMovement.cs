@@ -6,6 +6,8 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
 
+    public Animator animator;
+
     public float moveSpeed = 5f;
 
     public float collisionOffset = 0.05f;
@@ -40,12 +42,25 @@ public class PlayerMovement : MonoBehaviour
 
 
             if(moveInput.x != 0){
-                if(moveInput.x > 0){
-                    print("Show Right");
-                }else{
-                    print("Show Left");
+                if(moveInput.x > 0.01){
+                    gameObject.transform.localScale = new Vector2(1.75f, 1.75f);
+                     animator.SetBool("FacingLeft", false);
+                }else if(moveInput.x < -0.01){
+                    gameObject.transform.localScale = new Vector2(-1.75f, 1.75f);
+                     animator.SetBool("FacingLeft", true);
                 }
             }
+         
+            if(moveInput.y > 0){
+                animator.SetBool("FacingFront",false);
+            }else{
+                animator.SetBool("FacingFront",true);
+            }
+          
+            
+            bool isMoving = (moveInput.y != 0) || (moveInput.x != 0);
+            print("Moving? " +isMoving);
+            animator.SetBool("Moving", isMoving);
 
 
         }
