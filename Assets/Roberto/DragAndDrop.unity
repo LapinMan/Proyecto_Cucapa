@@ -305,7 +305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cbdcbc6a39e6474ca7ad7b89e02b885, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 2
+  nameObject: Object2
 --- !u!61 &569652704
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -430,7 +430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cbdcbc6a39e6474ca7ad7b89e02b885, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 1
+  nameObject: Object1
 --- !u!61 &641872916
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -628,7 +628,7 @@ GameObject:
   - component: {fileID: 1048947105}
   - component: {fileID: 1048947106}
   m_Layer: 5
-  m_Name: ObjectDragAndDrop
+  m_Name: Object1
   m_TagString: DragObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -953,7 +953,7 @@ GameObject:
   - component: {fileID: 1968863446}
   - component: {fileID: 1968863445}
   m_Layer: 5
-  m_Name: ObjectDragAndDrop (1)
+  m_Name: Object2
   m_TagString: DragObject2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

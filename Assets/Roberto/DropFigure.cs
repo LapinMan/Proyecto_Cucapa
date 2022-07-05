@@ -6,7 +6,7 @@ public class DropFigure : MonoBehaviour
 {
     Vector3 position;
 
-    public int id;
+    public string nameObject;
 
     private void Start()
     {
@@ -15,27 +15,20 @@ public class DropFigure : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("DragObject") && id == 1)
+        if(collision.gameObject.name == nameObject)
         {
             collision.SendMessage("EnableDrop", position);
         }
 
-        if (collision.CompareTag("DragObject2") && id == 2)
-        {
-            collision.SendMessage("EnableDrop", position);
-        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("DragObject") && id == 1)
+        if (collision.gameObject.name == nameObject)
         {            
             collision.SendMessage("DisableDrop");
         }
 
-        if (collision.CompareTag("DragObject2") && id == 2)
-        {
-            collision.SendMessage("DisableDrop");
-        }
+        //collision.CompareTag("DragObject")
     }
 }
