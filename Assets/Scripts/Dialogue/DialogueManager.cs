@@ -26,7 +26,7 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(List<Dialogue> dialogueList){
         // Poner los dialogos en una fila
-        player.GetComponent<PlayerMovement>().enabled = false;
+        player.GetComponent<Player_Movement_2>().enabled = false;
         foreach(Dialogue dialogue in dialogueList){
             dialogues.Enqueue(dialogue);
         }
@@ -76,7 +76,7 @@ public class DialogueManager : MonoBehaviour
         }else{
             animator.SetBool("isActive", false);
             dialogues.Clear();
-            player.GetComponent<PlayerMovement>().enabled = true;
+            player.GetComponent<Player_Movement_2>().enabled = true;
         }
         
     }

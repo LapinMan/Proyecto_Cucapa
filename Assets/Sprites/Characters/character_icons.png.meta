@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -6564,9 +6564,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      character_icons_41: -1598249046
+      character_icons_278: -1404628661
       character_icons_139: 1794522564
-      character_icons_157: 557034754
+      character_icons_253: 258004122
       character_icons_125: 928235034
       character_icons_7: 1270698794
       character_icons_90: -485284809
@@ -6575,10 +6575,9 @@ TextureImporter:
       character_icons_218: 1994872421
       character_icons_283: -1575710874
       character_icons_206: -296011882
-      character_icons_253: 258004122
-      character_icons_242: -1455590359
-      character_icons_278: -1404628661
       character_icons_260: -1987638796
+      character_icons_242: -1455590359
+      character_icons_49: -1803808067
       character_icons_295: -186181183
       character_icons_86: 689296533
       character_icons_208: -1646690494
@@ -6587,6 +6586,7 @@ TextureImporter:
       character_icons_5: 1629455239
       character_icons_2: -599269510
       character_icons_292: 61917264
+      character_icons_41: -1598249046
       character_icons_259: -805017200
       character_icons_151: 1170208940
       character_icons_124: 660100453
@@ -6635,12 +6635,12 @@ TextureImporter:
       character_icons_148: 1526857342
       character_icons_183: -1309346108
       character_icons_115: 1970671217
+      character_icons_290: -1465967765
       character_icons_96: 233101033
       character_icons_154: -742580126
-      character_icons_268: -1622382610
       character_icons_71: -1040580092
+      character_icons_268: -1622382610
       character_icons_291: 23056159
-      character_icons_290: -1465967765
       character_icons_254: 1851300909
       character_icons_245: -1656591838
       character_icons_35: 745418580
@@ -6869,7 +6869,7 @@ TextureImporter:
       character_icons_38: 408838045
       character_icons_51: -1650204848
       character_icons_304: 2102450316
-      character_icons_49: -1803808067
+      character_icons_157: 557034754
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
